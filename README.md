@@ -22,7 +22,7 @@ Swagger接口可视化框架
 
 Thymeleaf模板框架
 
-播放器模板：感谢 [[MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)]()提供的模板。
+播放器模板：感谢 [MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) 提供的模板。
 
 播放器模板改进：添加删除音乐的功能
 
@@ -302,21 +302,21 @@ Thymeleaf模板框架
 
 示例：
 
-![image-20201129142650813](images\image-20201129142650813.png)
+![image-20201129142650813](images/image-20201129142650813.png)
 
-![image-20201129142740154](images\image-20201129142740154.png)
+![image-20201129142740154](images/image-20201129142740154.png)
 
-![image-20201129142817842](images\image-20201129142817842.png)
+![image-20201129142817842](images/image-20201129142817842.png)
 
 
 
 ## PC端项目演示
 
-![image-20201129143247654](images\image-20201129143247654.png)
+![image-20201129143247654](images/image-20201129143247654.png)
 
-![image-20201129143310324](images\image-20201129143310324.png)
+![image-20201129143310324](images/image-20201129143310324.png)
 
-![image-20201129143403654](images\image-20201129143403654.png)
+![image-20201129143403654](images/image-20201129143403654.png)
 
 搜索歌手可能会不全，推荐搜索歌名。
 
@@ -328,19 +328,19 @@ Thymeleaf模板框架
 
 查看本地内网ip（win+R，输入cmd，再输入ipconfig）
 
-![image-20201129143621053](images\image-20201129143621053.png)
+![image-20201129143621053](images/image-20201129143621053.png)
 
-![image-20201129143700689](images\image-20201129143700689.png)
+![image-20201129143700689](images/image-20201129143700689.png)
 
 手机访问，内网ip:项目端口（默认8080）
 
 （推荐使用手机浏览器，微信自带浏览器可能播放不了。）
 
-![image-20201129144212939](images\image-20201129144212939.png)
+![image-20201129144212939](images/image-20201129144212939.png)
 
-![image-20201129144242784](images\image-20201129144242784.png)
+![image-20201129144242784](images/image-20201129144242784.png)
 
-![image-20201129144311341](images\image-20201129144311341.png)
+![image-20201129144311341](images/image-20201129144311341.png)
 
 
 
@@ -360,13 +360,13 @@ Thymeleaf模板框架
 
 微信号：codeFL
 
-![image-20201129144637187](images\image-20201129144637187.png)
+![image-20201129144637187](images/image-20201129144637187.png)
 
 微信公众号：小R资源
 
 微信号：yoursXiaoR
 
-![image-20201129144946390](images\image-20201129144946390.png)
+![image-20201129144946390](images/image-20201129144946390.png)
 
 ## 交流群
 
@@ -374,5 +374,5 @@ QQ群：Python交流分享群
 
 群号：812653899
 
-![Python交流分享群群聊二维码](images\Python交流分享群群聊二维码.png)
+![Python交流分享群群聊二维码](images/Python交流分享群群聊二维码.png)
 
